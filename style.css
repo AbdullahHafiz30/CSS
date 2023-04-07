@@ -1,0 +1,82 @@
+h1 {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 350%;
+    margin-top: 15%;
+    margin-left: 5%;
+    color: #000000;
+    position: absolute;
+}
+
+p {
+    font-size: medium;
+    text-align: center
+}
+
+body {
+    background: url(background.webp) no-repeat;
+    background-size: cover;    
+}
+
+.container {
+    height: 400px;
+    width: 400px;
+    border-radius: 8px;
+    border: 1px solid black;
+    margin-top: 15%;
+    margin-left: 39.5%;
+    background-color: rgba(22, 62, 192, 0.377);
+    position: relative;
+}
+
+button {
+    background-color: #4CAF50; /* Green */
+    border-radius: 8px;
+    border: 1px solid black;
+    color: white;
+    padding: 15px 32px;
+    margin-top: 50%;
+    margin-left: 37.5%;
+    font-size: 16px;
+    position: absolute;
+}
+
+.box {
+    height: 80px;
+    width: auto;
+    border: 1px solid black;
+    margin-top: 20px auto;
+    background-color: #4f71cc8a;
+    position: relative;
+}
+
+.box1 {
+    height: 80px;
+    width: 200px;
+    position: absolute;
+    right: 0px;
+    background-color: #263d7a8a;
+}
+
+.main {
+    position: absolute;
+    top: 20px;
+    left: 24%;
+    font-size: 29px;
+    color: #ffffff;
+}
+
+.who {
+    position: absolute;
+    top: 20px;
+    left: 15%;
+    font-size: 29px;
+    color: #ffffff;
+}
+
+.box2 {
+    height: 80px;
+    width: 200px;
+    position: absolute;
+    right: 200px;
+    background-color: #5b7cd88a;
+}
